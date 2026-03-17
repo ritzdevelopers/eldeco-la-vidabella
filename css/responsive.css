@@ -35,6 +35,8 @@
     }
 }
 
+
+
 @media screen and (min-device-width:320px) and (max-device-width:767px) {
 
 
@@ -1078,4 +1080,9 @@
 
 
 
+}
+@media (max-width: 1023px) {
+    .registration{
+        display: none !important;
+    }
 }
